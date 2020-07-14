@@ -1,0 +1,18 @@
+<emps>
+<emp>
+    <name type="str">Muni</name>
+    <sal type="number" updated="yes">100K</sal>
+</emp>
+<emp>
+    <name type="str">Ravi</name>
+    <sal type="number" updated="yes">100K</sal>
+</emp>
+<emp>
+    <name type="str">Raj</name>
+    <sal type="number" updated="yes">100K</sal>
+</emp>
+<emp>
+    <name type="str">Ram</name>
+    <sal type="number" updated="yes">100K</sal>
+</emp>
+</emps>

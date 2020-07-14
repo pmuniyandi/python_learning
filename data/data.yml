@@ -1,0 +1,14 @@
+DEV:
+  loc = "/dev"
+  url = "/user/DEV/URL"
+  port = 2000
+
+SIT:
+  loc = "/sit"
+  url = "/user/SIT/URL"
+  port = 3000
+
+PROD:
+  loc = "/prod"
+  url = "/user/prod/URL"
+  port = 4000
